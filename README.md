@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![NoSkid Verification](https://noskid.today/badge/100x30/?repo=kdga-ui/kdga-ui&cache=false)](https://noskid.today)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)   
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1522145096747712515)
 
 
 <!--
