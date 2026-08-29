@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![NoSkid Verification](https://noskid.today/badge/100x30/?repo=kdga-ui/kdga-ui)](https://noskid.today) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)   
+
+
 <!--
 **kdga-ui/kdga-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
